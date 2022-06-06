@@ -1,8 +1,11 @@
 @font-face {
   font-family: 'Barlow';
-  font-family: "Lora";
   src: url("../fonts/Barlow/Barlow-Bold.ttf");
   src: url("../fonts/Barlow/Barlow-SemiBoldItalic.ttf");
+  font-family: "Lora";
+  src: url("../fonts/Lora/static/Lora-Medium.ttf");
+  src: url("../fonts/Lora/static/Lora-Regular.ttf");
+  src: url("../fonts/Lora/static/Lora-SemiBold.ttf");
   font-weight: normal;
   font-style: normal;
 }
