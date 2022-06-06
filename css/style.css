@@ -1,14 +1,13 @@
-/*@font-face {
-  font-family: 'icomoon';
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+@font-face {
+  font-family: 'Barlow';
+  font-family: "Lora";
+  src: url("../fonts/Barlow/Barlow-Bold.ttf");
+  src: url("../fonts/Barlow/Barlow-SemiBoldItalic.ttf");
   font-weight: normal;
   font-style: normal;
-}*/
+}
 
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;0,700;1,600&family=Lora:wght@400;500;600&display=swap');
-</style>
 
 /* =======================================================
 *
@@ -704,7 +703,6 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   top: .05em;
   font-family: 'Lora';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -1189,7 +1187,6 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   right: 0px;
   font-family: 'Lora';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
